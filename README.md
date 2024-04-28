@@ -13,8 +13,8 @@ Este repositório contém um aplicativo de cadastro de automóveis desenvolvido 
    Clone este repositório para o seu ambiente local usando o seguinte comando:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   ```
+   git clone https://github.com/Fleishmann/CadastroAutomoveis.git
+   ``` 
 
 2. **Abrir no Visual Studio:**
    Abra o projeto "CadastroAutomoveis.sln" no Visual Studio.
